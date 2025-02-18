@@ -144,12 +144,6 @@ def main():
         
         # Convert the response to speech
         text_to_speech(response)
-        
-        # Uncomment the following lines if you want an option to exit the loop
-        # user_choice = input("Continue? (y/n): ")
-        # if user_choice.lower() == "n":
-        #     print("Glad to help, bye!")
-        #     break  # Exit the loop
 
 if __name__ == "__main__":
     main()
