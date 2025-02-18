@@ -1,0 +1,6 @@
+openai==0.28
+pyttsx3
+scipy
+python-dotenv
+sounddevice
+py3-tts
