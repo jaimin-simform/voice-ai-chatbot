@@ -40,9 +40,11 @@ pip install requirements.txt
 
 Modify `copy.env` to use your own [OpenAI API key](https://platform.openai.com/account/api-keys), And rename it to `.env`.
 
+### Step 5 - create voices folder in parent directory
+
 ## Example usage
 
 ```
-python3 app.py
+python3 voice_ai.py
 ```
 
